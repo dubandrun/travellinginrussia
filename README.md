@@ -1,2 +1,3 @@
-# travellinginrussia
-Adaptive cross-browser landing page
+"Путешествия по России"
+Адаптивная кроссбраузерная лендинг страница, созданная в рамках обучения в Яндекс Практикум.
+Стэк: HTML5\CSS3(flexbox, grid)\БЭМ
