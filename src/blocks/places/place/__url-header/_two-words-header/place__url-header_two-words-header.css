@@ -1,0 +1,11 @@
+.place__url-header_two-words-header {
+  padding-top: 73px;
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__url-header_two-words-header {
+    padding-top: 0;
+    margin-bottom: 16px;
+  }
+}
